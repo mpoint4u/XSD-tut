@@ -18,8 +18,18 @@
                                         type="xs:double" />
                             <xs:element name="ProductCode"
                                         type="xs:string" />
-                            <xs:element name="Size"
-                                        type="xs:string" />
+                            <xs:element name="Size">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="XXXL" />
+                                        <xs:enumeration value="XXL" />
+                                        <xs:enumeration value="XL" />
+                                        <xs:enumeration value="L" />
+                                        <xs:enumeration value="M" />
+                                        <xs:enumeration value="S" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
