@@ -12,6 +12,14 @@
                         <xs:sequence>
                             <xs:element name="Name"
                                         type="xs:string" />
+                            <xs:element name="Description"
+                                        type="xs:string" />
+                            <xs:element name="Price"
+                                        type="xs:double" />
+                            <xs:element name="ProductCode"
+                                        type="xs:string" />
+                            <xs:element name="Size"
+                                        type="xs:string" />
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
