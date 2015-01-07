@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Created with Liquid XML Studio 0.9.14.0 (http://www.liquid-technologies.com) -->
-<SalesCatalogue>
+<SalesCatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="myLittleShop file:///C:/Users/marcus/Documents/GitHub/XML-TUTORIALS/XSD_tut_FirstSchema/Schemas/XSD_first.xsd">
  <Product>
   <Name>Transformers T-Shirt</Name>
   <Description>
