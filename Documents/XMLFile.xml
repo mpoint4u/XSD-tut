@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML Studio 0.9.14.0 (http://www.liquid-technologies.com) -->
+<SalesCatalogue>
+ <Product>
+  <Name>Transformers T-Shirt</Name>
+  <Description>
+    This Transformers Autobot T-shirt is black and made from 100% cotton.
+    The distressed image featured on the front of this t-shirt is of the Transformers Autobot.
+  </Description>
+  <Price>17.95</Price>
+  <ProductCode>52-2436556</ProductCode>
+  <Size>XL</Size>
+ </Product>
+</SalesCatalogue>
+
