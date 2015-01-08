@@ -1,6 +1,4 @@
-# XSD-tut
-just a short tutorial for XML schemas
-=======
+
 XSD tutorial
 ======
 
